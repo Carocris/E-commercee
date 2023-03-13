@@ -1,2 +1,2 @@
-# E-commercee
-Tarea final
+# E-commerce
+E-commerce de Javascript
